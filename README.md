@@ -33,6 +33,6 @@ If you have a favorite data science book that isn't listed here, I’d love to h
 🌟 Connect With Me
 If you find this list helpful or want to discuss these books in more detail, feel free to connect with me on:
 
-LinkedIn(https://www.linkedin.com/in/the-abha-sharma/)
+[LinkedIn](https://www.linkedin.com/in/the-abha-sharma/)
 
 Happy learning and reading! 
